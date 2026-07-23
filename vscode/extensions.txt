@@ -1,0 +1,16 @@
+anthropic.claude-code
+bradlc.vscode-tailwindcss
+christian-kohler.npm-intellisense
+esbenp.prettier-vscode
+formulahendry.auto-rename-tag
+github.codespaces
+github.github-vscode-theme
+github.vscode-pull-request-github
+kisstkondoros.vscode-gutter-preview
+naumovs.color-highlight
+pranaygp.vscode-css-peek
+ritwickdey.liveserver
+sirtori.indenticator
+wayou.vscode-icons-mac
+yoavbls.pretty-ts-errors
+zhuangtongfa.material-theme

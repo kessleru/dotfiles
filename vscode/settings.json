@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "claudeCode.preferredLocation": "panel",
+  "workbench.statusBar.visible": false,
+  "workbench.navigationControl.enabled": false,
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.activityBar.location": "bottom",
+  "workbench.editor.showTabs": "none",
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "vscode-icons-mac"
+}
