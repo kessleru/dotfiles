@@ -13,4 +13,6 @@
   "workbench.editor.editorActionsLocation": "hidden",
   "workbench.activityBar.location": "hidden",
   "workbench.navigationControl.enabled": false,
+  "terminal.integrated.tabs.location": "left",
+  "window.commandCenter": false,
 }
