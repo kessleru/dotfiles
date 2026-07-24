@@ -14,3 +14,4 @@ sirtori.indenticator
 wayou.vscode-icons-mac
 yoavbls.pretty-ts-errors
 zhuangtongfa.material-theme
+dsznajder.es7-react-js-snippets
